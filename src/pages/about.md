@@ -3,6 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
+# OpenWalk
+
 > **以开放之心，漫步 AI 时代。**
 
 欢迎来到 **OpenWalk**，这是我的个人数字花园，记录着我在人工智能时代的探索轨迹。
