@@ -1,7 +1,7 @@
 ---
 title: 压缩即智能
 author: Theo
-pubDatetime: 2026-04-04T08:00:00Z
+pubDatetime: 2026-04-03T00:00:00Z
 slug: compression-is-intelligence
 featured: false
 draft: false
