@@ -133,6 +133,8 @@ tableOfContents: true
 
 这才是这三个词最深刻的含义：**它们不是时间的序列，它们是组织能力的三个维度。**
 
+![坐标系：决策权 × 数据能动性](https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-04-05%2FMiniMax-M2.7%2F2018291025860108309%2F30c38949af093490bce762d8082eee87d74267fcb54cd1c1ae3deee8bc46eb71..png?Expires=1775490248&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=q3R6cNI9SduZkmC0N4WZpfTWu4s%3D)
+
 用一个更清晰的框架来表示——
 
 > **坐标系框架：**
