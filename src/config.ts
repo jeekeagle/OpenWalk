@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://wangyiguo.top/", // replace this with your deployed domain
+  website: "https://openwalk.top/", // replace this with your deployed domain
   author: "Theo Wang",
-  profile: "https://wangyiguo.top/about",
+  profile: "https://openwalk.top/about",
   desc: "分享关于技术、效率与极简主义的思考。",
-  title: "TheoGarden",
+  title: "OpenWalk",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/jeekeagle/theo/edit/main/",
+    url: "https://github.com/jeekeagle/OpenWalk/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
