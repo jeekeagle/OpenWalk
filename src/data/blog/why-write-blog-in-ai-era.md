@@ -1,7 +1,7 @@
 ---
 title: OpenWalk序言
 author: Theo
-pubDatetime: 2026-04-05T08:17:00.000Z
+pubDatetime: 2026-04-04T21:00:00Z
 slug: why-write-blog-in-ai-era
 featured: false
 draft: false
