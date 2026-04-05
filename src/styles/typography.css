@@ -16,12 +16,19 @@
       @apply mb-3 text-foreground;
     }
 
+    h1 {
+      @apply text-[#EF6605];
+    }
+
     h2 {
       @apply text-[#1e40af];
     }
 
-    html[data-theme="dark"] h2 {
-      @apply text-[#60a5fa];
+    html[data-theme="dark"] h1,
+    html[data-theme="dark"] h2,
+    html[data-theme="dark"] h3,
+    html[data-theme="dark"] h4 {
+      @apply text-[#EF6605];
     }
 
     h3 {
