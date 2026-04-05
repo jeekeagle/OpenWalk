@@ -27,6 +27,8 @@ tableOfContents: true
 
 而这个认知陷阱，几乎困住了每一个试图转型的企业——也困住了每一个试图评论这场变革的观察者。
 
+![坐标系：信息化、数字化、智能化的三维能力模型](https://minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com/ccv2%2F2026-04-05%2FMiniMax-M2.7%2F2018291025860108309%2F49f33e39b059c64c5fa483c430f2db4903eee4d5960cfc12d7aefdc06c23611c..png?Expires=1775490073&OSSAccessKeyId=LTAI5tGLnRTkBjLuYPjNcKQ8&Signature=Z4irkDywhVqx%2BDOTyV5k4BKokBw%3D)
+
 ---
 
 ## 第一层：信息化——承认的基础设施化
