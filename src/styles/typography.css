@@ -5,6 +5,9 @@
   .app-prose {
     @apply prose leading-[1.725];
 
+    /* 修复中文引号显示 */
+    quotes: "「" "」" "『" "』";
+
     h1,
     h2,
     h3,
